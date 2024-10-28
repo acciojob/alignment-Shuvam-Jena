@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+table-1, table-2, table-3, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 600px;
+    height: 20px;
+    margin: 20px auto; /* center tables horizontally */
+    padding: 1px;
+}
+
+	.center {
+    text-align: center;
+}
+
+		.right {
+    text-align: right;
+}
+
+		#t-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+		.green {
+    background-color: green;
+}
+
+		.blue {
+    background-color: blue;
+}
+		.middle {
+    margin: auto;
+}
+ 
